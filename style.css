@@ -1,0 +1,23 @@
+html {
+  background-color: white;
+  font-size: 20px;
+}
+
+header {
+	font-size: 48px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+ul {
+  background: gray;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+li {
+  margin-left: 20px;
+}
